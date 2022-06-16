@@ -4,6 +4,14 @@
 # 01_常用软件下载
 
 # 02_参考资料
+- LabVIEW_《A Practical Approach to Metaheuristics using LabVIEW and MATLAB》
+- LabVIEW_《Effective LabVIEW Programming ( PDFDrive.com )》
+- LabVIEW_《Introduction to LabVIEW FPGA for RF, Radar, and Electronic Warfare Application》
+- LabVIEW_《LabVIEW For Everyone ( PDFDrive.com )》
+- LabVIEW_《LabVIEW graphical programming》
+- LabVIEW_《NI LabVIEW Jitter Analysis Toolkit》
+- LabVIEW_《Programming Arduino with LabVIEW》
+- LabVIEW_《The LabVIEW Style book》
 
 # 03_通用程序
 **01_WriteLog_日志记录**
